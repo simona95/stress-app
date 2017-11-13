@@ -1,0 +1,22 @@
+body {
+    font: 1.5em "Helvetica", sans-serif;
+    background-color: #edeff0;
+    margin: 0;
+    padding: 0px;
+    min-height: 600px;
+}
+
+
+.pagination-centered {
+    text-align: center;
+}
+
+input[type=submit] {
+    padding:5px 15px;
+    background: #666666;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+
+}
